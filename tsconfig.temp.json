@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/home/sully/project-folder/ts-tut/src/08-function-return-type-annotations.problem.ts"
+    "/home/sully/project-folder/ts-tut/src/18-function-types-with-promises.problem.ts"
   ]
 }
